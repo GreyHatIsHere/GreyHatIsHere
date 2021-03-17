@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GreyHatIsHere
 - 👀 I’m interested in ctfs and reverse engineering
--Contact: hackmissing5@gmail.com
+- Contact: hackmissing5@gmail.com
 
 <!---
 GreyHatIsHere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
